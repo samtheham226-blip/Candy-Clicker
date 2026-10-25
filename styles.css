@@ -13,5 +13,5 @@ body{
 .not-broke{
     background-color: rgb(113, 37, 255);
     color:rgb(0, 0, 0);
-    border: 0;
+    border: 2px solid black;
 }
